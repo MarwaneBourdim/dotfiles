@@ -103,3 +103,4 @@ source $ZSH/oh-my-zsh.sh
 # alias pip="usr/local/bin"
 export PATH="/home/marwane/.local/bin:$PATH"
 export PATH="$PATH:/opt/nvim-linux64/bin"
+export PATH="$PATH:/home/marwane/.dotnet/tools"
