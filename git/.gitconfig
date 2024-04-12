@@ -1,0 +1,8 @@
+[user]
+	name = Marwane
+	email = bourdim.marwane@gmail.com
+[core]
+	editor = vim
+[alias]
+	last = log -1 HEAD
+	graph = log --all --graph
